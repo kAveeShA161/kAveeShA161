@@ -21,10 +21,10 @@
 
 I am a **Software Engineering Undergraduate** at the Sabaragamuwa University of Sri Lanka with hands-on experience in full-stack development, machine learning, and DevOps-based systems. I'm passionate about designing efficient, secure, and user-centric software solutions.
 
-- 🎓 **Education:** Pursuing BSc (Hons) in Software Engineering (Expected 2027).
-- 🚀 **Experience:** Worked as a part-time Software Engineer at **Kubegraf.io**, focusing on bug fixing, feature validation, and continuous testing.
-- 🛠️ **Core Focus:** Building scalable web applications using modern frameworks and deploying them via optimized cloud pipelines.
-- 🎨 **Creative Side:** Active volunteer graphic designer for tech communities like IEEE and Innovation Nation.
+- **Education:** Pursuing BSc (Hons) in Software Engineering (Expected 2027).
+- **Experience:** Worked as a part-time Software Engineer at **Kubegraf.io**, focusing on bug fixing, feature validation, and continuous testing.
+- **Core Focus:** Building scalable web applications using modern frameworks and deploying them via optimized cloud pipelines.
+- **Creative Side:** Active volunteer graphic designer for tech communities like IEEE and Innovation Nation.
 
 ---
 
@@ -33,7 +33,7 @@ I am a **Software Engineering Undergraduate** at the Sabaragamuwa University of 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 TaskFlow</h4>
+      <h4>TaskFlow</h4>
       <p>A full-stack task management platform featuring dashboard analytics, mood tracking, focus streaks, and AI-powered task planning via the Google Gemini API.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -43,7 +43,7 @@ I am a **Software Engineering Undergraduate** at the Sabaragamuwa University of 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏥 Maternal & Child Health System</h4>
+      <h4>Maternal & Child Health System</h4>
       <p>Build a secure, full-stack healthcare platform to digitize manual health records for the MOH Office in Imbulpe.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -55,7 +55,7 @@ I am a **Software Engineering Undergraduate** at the Sabaragamuwa University of 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 Brain Tumor Classification</h4>
+      <h4>Brain Tumor Classification</h4>
       <p>An end-to-end medical image classification system utilizing custom CNN and VGG16 transfer learning to classify MRI scans with a Flask inference backend.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,7 +64,7 @@ I am a **Software Engineering Undergraduate** at the Sabaragamuwa University of 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📰 TruthLab</h4>
+      <h4>TruthLab</h4>
       <p>An AI-based fake news detector integrating a scikit-learn ML pipeline to classify authenticity from text or URLs.</p>
       <p align="left">
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -79,36 +79,122 @@ I am a **Software Engineering Undergraduate** at the Sabaragamuwa University of 
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-f39c12?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f1c40f?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-2980b9?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-34495e?style=for-the-badge&logo=python&logoColor=yellow" />
-  <br><br>
-  <img src="https://img.shields.io/badge/React-2c3e50?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-c0392b?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-16a085?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-27ae60?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-34495e?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-7f8c8d?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-e74c3c?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-2ecc71?style=for-the-badge&logo=spring&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/MongoDB-1abc9c?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-2c3e50?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Docker-2980b9?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-3498db?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-d35400?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2c3e50?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Figma-e67e22?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-2980b9?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-e67e22?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### 🎨 Frontend & Languages
+
+<table border="0">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" /><br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /><br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" /><br />
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" /><br />
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /><br />
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" /><br />
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" /><br />
+      <sub><b>TailwindCSS</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" /><br />
+      <sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### ⚙️ Backend & Databases
+
+<table border="0">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /><br />
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" /><br />
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" /><br />
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" /><br />
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring Boot" /><br />
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /><br />
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /><br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /><br />
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### ☁️ DevOps & Tools
+
+<table border="0">
+  <tr>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /><br />
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" /><br />
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /><br />
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" /><br />
+      <sub><b>GH Actions</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" /><br />
+      <sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop" /><br />
+      <sub><b>Photoshop</b></sub>
+    </td>
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /><br />
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
